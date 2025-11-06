@@ -1,5 +1,5 @@
 ## Project URL
-[GitHub Repository Link]([https://github.com/azatmuhammetamanov01/github-user-activ](https://roadmap.sh/projects/github-user-activity))
+[GitHub Repository Link]([https://roadmap.sh/projects/github-user-activity])
 
  ## Github User Activity
  
